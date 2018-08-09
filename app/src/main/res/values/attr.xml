@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MicrophoneView">
+        <attr name="diameter_begin" format="dimension"/>
+        <attr name="diameter_end" format="dimension"/>
+        <attr name="color_begin" format="color"/>
+        <attr name="color_end" format="color"/>
+        <attr name="time" format="integer"/>
+    </declare-styleable>
+</resources>

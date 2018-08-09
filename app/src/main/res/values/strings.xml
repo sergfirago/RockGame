@@ -1,0 +1,19 @@
+<resources>
+    <string name="language">en-EN</string>
+    <string name="app_name">RockPaperApplication</string>
+    <string name="button_start">Start</string>
+    <string-array name="list">
+        <item>rock</item>
+        <item>scissors</item>
+        <item>paper</item>
+    </string-array>
+    <string-array name="list2">
+        <item>rock</item>
+        <item>scissors</item>
+        <item>paper</item>
+    </string-array>
+    <string name="error_message">Some mistake, will we play another game?</string>
+    <string name="draw_message">Your answer is %s. And I thought of %s. We have a type of a draw. Come on!</string>
+    <string name="you_win_message">You have %s, I have %s. I lost and I want to recoup! Start!</string>
+    <string name="you_lose_message">Your answer is %s. I conceived %s. I won you! Can you imagine?.. Lets play again!</string>
+</resources>

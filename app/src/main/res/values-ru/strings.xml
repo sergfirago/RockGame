@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="language">ru-RU</string>
+    <string name="app_name">Камень</string>
+    <string name="button_start">Старт</string>
+    <string-array name="list">
+        <item>камень</item>
+        <item>ножницы</item>
+        <item>бумага</item>
+    </string-array>
+    <string-array name="list2">
+        <item>камень</item>
+        <item>ножницы</item>
+        <item>бумагу</item>
+    </string-array>
+    <string name="error_message">Какая-то ошибка. Сыграем еще?</string>
+    <string name="draw_message">Твой ответ %s. И я задумала %s. У нас типа ничья. Давай еще!</string>
+    <string name="you_win_message">У тебя %s, у меня %s. Я проиграла и хочу отыграться! Начинай!</string>
+    <string name="you_lose_message">Твой ответ %s. Я задумала %s. Я тебя победила! Представляешь?.. Давай опять играть!</string>
+</resources>
